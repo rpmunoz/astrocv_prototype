@@ -1,2 +1,2 @@
-**This project has moved to [http://www.github.com/Microsoft/Cognitive-Face-Windows](https://github.com/astroCV/astroCV)**
+**This project has moved to [https://github.com/astroCV/astroCV](https://github.com/astroCV/astroCV)**
 ==================
